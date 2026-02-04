@@ -1,0 +1,30 @@
+MyPersonalAI initialized. Ready to assist!
+[MyPersonalAI] Sensing: Hello, Assistant!
+[MyPersonalAI] Deciding action: {'type': 'respond', 'message': 'Hello! How can I assist you today?'}
+[MyPersonalAI] Actuator (Display): Hello! How can I assist you today?
+----------------------------------
+[MyPersonalAI] Sensing: What time is it?
+[MyPersonalAI] Deciding action: {'type': 'respond', 'message': 'The current time is 04:15:14.'}
+[MyPersonalAI] Actuator (Display): The current time is 04:15:14.
+----------------------------------
+[MyPersonalAI] Sensing: What's the weather like today?
+[MyPersonalAI] Deciding action: {'type': 'respond', 'message': "Fetching weather data... It's sunny with 25°C in your location."}
+[MyPersonalAI] Actuator (Display): Fetching weather data... It's sunny with 25°C in your location.
+----------------------------------
+[MyPersonalAI] Sensing: Set a reminder for 'buy groceries at 5 PM'
+[MyPersonalAI] Deciding action: {'type': 'respond', 'message': "Okay, I've set a reminder for: 'buy groceries at 5 PM'"}
+[MyPersonalAI] Actuator (Display): Okay, I've set a reminder for: 'buy groceries at 5 PM'
+----------------------------------
+[MyPersonalAI] Sensing: Check my schedule for tomorrow
+[MyPersonalAI] Deciding action: {'type': 'respond', 'message': 'You have no upcoming events.'}
+[MyPersonalAI] Actuator (Display): You have no upcoming events.
+----------------------------------
+[MyPersonalAI] Sensing: Turn the living room lights on
+[MyPersonalAI] Deciding action: {'type': 'respond', 'message': 'Turning lights on.'}
+[MyPersonalAI] Actuator (Display): Turning lights on.
+----------------------------------
+[MyPersonalAI] Sensing: Tell me a joke
+[MyPersonalAI] Deciding action: {'type': 'respond', 'message': "I'm not sure how to help with that."}
+[MyPersonalAI] Actuator (Display): I'm not sure how to help with that.
+----------------------------------
+[MyPersonalAI] Current reminders: ["'buy groceries at 5 PM'"]
